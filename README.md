@@ -15,7 +15,4 @@ I specialize in full-stack development, cloud deployment, and working directly w
 
 ## Connect
 
-- [Portfolio](https://www.nerdboi.online)
-- [LinkedIn](https://www.linkedin.com/in/moin-malek)
-- [Email](mailto:moinm509@gmail.com)
-- [Instagram](https://www.instagram.com/moin_m.a.l.e.k/)
+[Portfolio](https://www.nerdboi.online) | [LinkedIn](https://www.linkedin.com/in/moin-malek) | [Email](mailto:moinm509@gmail.com) | [Instagram](https://www.instagram.com/moin_m.a.l.e.k/) | [X (Twitter)](https://x.com/moin_malek_)
