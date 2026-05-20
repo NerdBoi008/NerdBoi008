@@ -10,20 +10,20 @@ I’m currently **looking for a full-time role** as a **Frontend / Full-Stack De
 
 ## Skills
 
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express, Laravel  
-**Databases:** PostgreSQL, MongoDB  
-**Deployment:** Docker, AWS, Vercel, Netlify
+- **Frontend:** React, Tanstack Start, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express, Laravel
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Deployment:** Cloudflare, Docker, AWS, Serverless, Dedicated
 
 ---
 
 ## What I enjoy working on
 
-* Building scalable, maintainable full-stack applications
-* Designing clean APIs and data models
-* Performance, DX, and thoughtful UI details
-* Working directly with stakeholders and clients
-* Turning vague ideas into shipped features
+- Building scalable, maintainable full-stack applications
+- Designing clean APIs and data models
+- Performance, DX, and thoughtful UI details
+- Working directly with stakeholders and clients
+- Turning vague ideas into shipped features
 
 I’m especially interested in teams that value **code quality, ownership, and long-term thinking** over quick hacks.
 
